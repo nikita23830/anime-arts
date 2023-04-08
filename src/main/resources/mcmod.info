@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AnimeArts",
+  "name": "Anime Arts StreamCraft",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["nikita23830"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
